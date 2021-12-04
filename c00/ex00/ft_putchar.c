@@ -17,8 +17,8 @@ void	ft_putchar(char c)
 }
 int main(void)
 {
- char a;
- a = 'a';
- ft_putchar(a);
+ char c;
+ c = 'a';
+ ft_putchar(c);
 return (0);	
 }
